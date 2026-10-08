@@ -1,35 +1,79 @@
 # Excavator Assembly
 
-## Overview
+![Excavator isometric view](images/isometric-view.png)
 
-A university CAD project completed in FreeCAD from dimensions and specifications provided by the instructor. I modeled the individual excavator components and developed the complete assembly.
+## Project Overview
 
-## My Contribution
+This is a university CAD project completed in FreeCAD. The instructor provided the required dimensions and specifications, and I independently modeled the individual components and developed the complete excavator assembly.
 
-- Modeled the individual components from the provided dimensions and specifications.
-- Built and organized the complete excavator assembly.
-- Worked across Part Design, Assembly, and TechDraw.
-- Prepared CAD documentation using TechDraw/Sheets.
+## My Role
+
+I completed the CAD work for the project, including:
+
+- Individual component modeling
+- Complete assembly development
+- Component positioning and integration
+- Engineering drawing/documentation work
 
 ## CAD Workflow
 
-1. Interpret the instructor-provided dimensions and specifications.
-2. Model each component individually in Part Design.
-3. Bring the components together and position them in the Assembly workbench.
-4. Review the completed assembly from multiple views.
-5. Produce technical drawing/documentation outputs with TechDraw and Sheets.
+The project was developed using:
+
+- **Part Design** — individual component modeling
+- **Assembly** — assembling and positioning the components
+- **TechDraw** — technical drawing generation
+- **Sheets** — organizing drawing outputs
+
+The workflow started with interpreting the supplied dimensions and specifications, followed by modeling the components individually and then integrating them into the complete assembly.
+
+## Project Views
+
+### Complete Assembly
+
+![Complete excavator assembly](images/assembly-view.png)
+
+### Isometric View
+
+![Excavator isometric view](images/isometric-view.png)
+
+### Front View
+
+![Excavator front view](images/front-view.png)
+
+### Top View
+
+![Excavator top view](images/top-view.png)
+
+### Bottom View
+
+![Excavator bottom view](images/bottom-view.png)
+
+### Assembly Tree
+
+![Excavator assembly tree](images/tree-view.png)
 
 ## Skills Demonstrated
 
-- 3D parametric part modeling
+- 3D parametric CAD modeling
+- Mechanical component modeling
 - Mechanical assembly design
 - Component positioning and integration
-- Engineering drawing interpretation
-- Technical CAD documentation
-- FreeCAD Part Design, Assembly, and TechDraw
+- Interpretation of engineering dimensions
+- Technical drawing preparation
+- CAD documentation
+- FreeCAD Part Design
+- FreeCAD Assembly
+- FreeCAD TechDraw
 
-## Project Files
+## Source Files
 
-The models directory contains the individual FreeCAD component files and the completed assembly. The images directory contains selected project views.
+The models folder contains the individual FreeCAD component files and the completed assembly file.
 
-> Note: This was an academic project. The dimensions/specifications were supplied by the instructor; the CAD modeling and assembly work were completed by me.
+## Project Context
+
+**Type:** University/class project  
+**CAD software:** FreeCAD  
+**Input:** Instructor-provided dimensions and specifications  
+**My contribution:** Individual component modeling and complete assembly development
+
+> The dimensions and specifications were provided by the instructor. The CAD modeling and assembly work were completed by me.
