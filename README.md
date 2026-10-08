@@ -88,6 +88,12 @@ Each project has its own directory containing:
 
 This structure makes the portfolio easy to review while keeping the original CAD source files available.
 
+## Reviewing the CAD Files
+
+The portfolio includes editable FreeCAD `.FCStd` source files rather than flattened images alone. To inspect the actual geometry and feature history, download the relevant model files and open them in FreeCAD.
+
+The **images/** directories provide quick visual references, while the **models/** directories provide the underlying CAD source.
+
 ## Project Context
 
 These projects represent hands-on mechanical engineering CAD work completed during my engineering studies. Where instructor-provided dimensions or specifications were used, the portfolio distinguishes those requirements from the CAD work I completed.
