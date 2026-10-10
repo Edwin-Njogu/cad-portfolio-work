@@ -2,6 +2,8 @@
 
 **Mechanical Engineering | 3D CAD | Mechanical Assemblies | Technical Documentation**
 
+![Featured CAD project: excavator assembly](./Excavator/images/isometric-view.png)
+
 Welcome to my mechanical engineering CAD portfolio. This repository showcases selected projects developed in **FreeCAD**, covering individual part modeling, mechanical assemblies, component integration, and CAD documentation.
 
 The portfolio is focused on demonstrating practical CAD workflow: taking mechanical design requirements or reference dimensions, building structured parametric models, integrating components into assemblies, and presenting the finished work clearly.
@@ -104,4 +106,3 @@ My goal is to build designs that are not only visually complete, but also **stru
 
 **Edwin Njogu**  
 Mechanical Engineering | CAD / CAM | Mechanical Design
-
